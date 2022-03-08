@@ -1,0 +1,5 @@
+.resources.dll
+.cs
+.svn
+.pdb
+"source\bin\Release\some_file.exp"
